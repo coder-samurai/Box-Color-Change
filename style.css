@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Bagel Fat One', cursive;
+}
+
+
+body {
+    background-color: #453064;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+button {
+    padding: 15px;
+    background-color: #449187;
+    color: #c0ebcb;
+    font-size: 20px;
+    font-weight: 100;
+    border: 0px;
+    border-radius: 8px;
+    margin-left: 50px;
+}
+
+
+.ColorBox {
+    width: 50vh;
+    height: 50vh;
+    background-color: #fff;
+    border-radius: 8px;
+}
